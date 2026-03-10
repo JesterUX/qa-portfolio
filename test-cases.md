@@ -10,3 +10,15 @@ Steps:
 
 Expected Result:
 User logged in successfully
+
+
+## TC002 – Login with wrong password
+
+Steps:
+1 Open login page
+2 Enter valid username
+3 Enter wrong password
+4 Click login
+
+Expected Result:
+Error message appears
